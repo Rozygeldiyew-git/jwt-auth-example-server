@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozygeldiyew-git/jwt-auth-example-server.git"
+  },
+  "author": "Rozygeldiyew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rozygeldiyew-git/jwt-auth-example-server/issues"
+  },
+  "homepage": "https://github.com/Rozygeldiyew-git/jwt-auth-example-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
